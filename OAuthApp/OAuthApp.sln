@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthServer", "OAuthServer\OAuthServer.csproj", "{53EA8B8A-6A16-4903-94A5-30068C3B66EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{21BAB450-4BC4-4B7C-8074-EB0A01893F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{CFF8AC65-479C-4064-9345-AAEB14E36EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EA8B8A-6A16-4903-94A5-30068C3B66EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EA8B8A-6A16-4903-94A5-30068C3B66EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EA8B8A-6A16-4903-94A5-30068C3B66EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EA8B8A-6A16-4903-94A5-30068C3B66EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BAB450-4BC4-4B7C-8074-EB0A01893F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BAB450-4BC4-4B7C-8074-EB0A01893F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BAB450-4BC4-4B7C-8074-EB0A01893F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BAB450-4BC4-4B7C-8074-EB0A01893F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF8AC65-479C-4064-9345-AAEB14E36EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF8AC65-479C-4064-9345-AAEB14E36EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF8AC65-479C-4064-9345-AAEB14E36EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF8AC65-479C-4064-9345-AAEB14E36EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
